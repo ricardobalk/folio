@@ -1,2 +1,5 @@
+.cache/
+.config/
+.local/
 export/
 *.pdf
