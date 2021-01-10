@@ -1,0 +1,320 @@
+<!--ORIGINAL START-->
+Ricardo BalkPortfolio2020
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Hacktoberfest 2020
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Jaarlijks in oktober vindt Hacktoberfest plaats, een online evenement waarbij mensen meehelpen met het maken en verbeteren van open-source software.Het doel van Hacktoberfest is het bekend maken van open-source software en mensen de gelegenheid bieden zichzelf te ontplooien door samen met anderen ervaring op te doen met vele verschillende programmeertalen.Door de opkomst van internet kan iedereen wereldwijd deelnemen aan Hacktoberfest, ongeacht achtergrond of ervaring.Ook ik had me dit jaar aangemeld en gewerkt aan verschillende applicaties. Bovendien heb ik zelf ook een open-source locatie-tracker gebouwd, zodat anderen kunnen meedenken over de ontwikkeling van de app.Er was verrassend veel interesse voor mijn relatief eenvoudige app. Dankzij Hacktoberfest is het in korte tijd uitgegroeid tot bruikbare applicatie, die ik in de toekomst verder uit ga werken.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Afbeelding: Een open-source locatie tracker die ik samen met anderen maakte in het kader van Hacktoberfest 2020. Back-end geschreven in Go, front-end in Vue 3 en TypeScript.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Broncode: github.com/waarzitjenu
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Eigen website • Web Design & Code
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Nadat ik afstudeerde heb ik wat aan-dacht gegeven aan mijn eigen website.Ik heb een nieuw ontwerp gemaakt voor mijn website en heb vervolgens de code geschreven om zo ervaring op te doen met Vue.Vue is een Javascript-framework waarmee je dynamische onderdelen kunt toevoegen aan een website, waardoor je handige functionaliteiten kunt bouwen en aanbieden. Het grootste voordeel van Vue is dat het snel en overzichtelijk is. Het werkt met componenten waar door websites beter zijn te onderhouden. Vue sluit goed aan bij de Atomic Design-filosofie.Met Atomic Design splits je ontwerpen op in kleinere onderdelen, het liefst zo klein mogelijk. Daaruit bouw je een systeem, in plaats van individuele pagina’s.De achterliggende gedachte is dat als alle kleine onderdelen goed zijn uitgedacht, goed functioneren en onderling aansluiten bij elkaar, het geheel ook goed werkt. Gaat een onderdeel toch onverwachts stuk, dan blijft de rest (meestal) voldoende werken.Problemen zijn makkelijker te vinden en de (programma)code is veel beter te onderhouden.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Website: ricardobalk.nl
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Broncode: github.com/ricardobalk/www
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Belangrijke skills bij dit project
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+HTML/CSS
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Versiebeheer
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+TypeScript
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Grafisch ontwerp
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Gebruikte technieken
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Zurb FoundationWebpackVuePressVueNodeBabel (ES6)TypeScriptPrerenderingGitDocker*
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Vormkracht10 • Usability & Design
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Vormkracht10 is een webdesignbureau in Nijmegen die websites en apps maakt voor de zakelijke markt.In het kader van een afstudeeropdracht heb ik voor dit bedrijf onderzoek verricht naar de gebruiksvriendlijkheid van een intern gebouwd CMS.Het CMS heeft de naam ‘Slim’ en stelt klanten van het bedrijf in staat om hun website of webapplicatie op eenzelfstandige wijze te beheren.Door middel van diverse interviews met klanten en de afname van usabilitytests is het systeem onderzocht op gebruiksvriendelijkheid.Op basis van de resultaten uit de onderzoeken zijn er ontwerpvoorstellen gemaakt die Vormkracht10 kan gebruiken om de gebruiksvriendelijkheid van Slim te verbeteren en de gebruikers beter tegemoet te komen.Van enkele ontwerpvoorstellen zijn er prototypes gemaakt die opnieuw getest zijn met een selectie klantenom het ontwerp te verbeteren. Dit is gedaan aan de hand van ‘Design Thinking’.Een van de interessante ontwerpvoorstellen was een dashboard waaruit (B2B-)gebruikers in één oogopslag de situatie van hun bedrijfswebsite kunnen zien.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+De fasen van Design Thinking.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Belangrijke skills bij dit project
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Communiceren
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Onderzoeken
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Planmatig werken
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Ontwerpen
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Gebruikte technieken
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Zurb FoundationWebpackVuePressVueNodeBabel (ES6)TypeScriptPrerenderingGitDocker*
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+ELDA • Bedrijfsvideo
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+ELDA is een bedrijf dat al jaren actief is in de geitensector. Diensten die ELDA aanbiedt zijn Management Services voor de geitenhouderij, identificatie, koppelingen, melkonderzoek en aanvullende dienstverlening.Een van de producten waar men aan kan denken is een online interface waarin de boer(in), verzorger of een dierenarts informatie kan opvragen over de voeding en gezondheid van een specifiek dier.Onlangs is dit bedrijf overgenomen als dochter onderneming van RUMA-VSM. Het bedrijf had nog geen bedrijfsvideo die uitleg gaf over de diensten, dus ben ik gevraagd om een bedrijfsvideo te maken.De bedrijfsvideo diende als inleiding op de presentatie tijdens de officiële opening en wordt in de toekomst ingezet als online video voor mensen die meer willen weten over het bedrijf.Video: https://vimeo.com/301791287
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+ProtonMail & ProtonVPN • Proeflezen
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+ProtonMail is een e-maildienst die veilige, eenvoudig bruikbare e-mailaccounts aanbiedt die voorzien zijn van de allerlaatste technieken op het gebied van beveiliging en versleuteling.Om de app voor iedereen beschikbaar te maken en de bruikbaarheid te verbeteren onder de mensen die minder goed Engels begrijpen was het noodzakelijk om de app te vertalen naar andere talen.Voor de Nederlandse taal heb ik het voortouw in handen genomen en heb samen met een online team van Nederlands-sprekende personen de ProtonMail-app beschikbaar gemaakt in het Nederlands.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+CrowdIn is de webapplicatie die ProtonMail gebruikt voor het vertalen van de teksten.Je kunt CrowdIn het best beschrijven als een Agile vertaalprogramma waarin meerdere personen op een gestructureerde manier vertalingen kunnen indienen, beoordelen en herzien.Projectmanagers, vertalers en proeflezers kunnen onderling communiceren over vertalingen en de voortgang is makkelijk te zien.Het vertalen van ProtonMail was een succes en inmiddels ben ik ook gevraagd als proeflezer van ProtonVPN, een andere app die door dit bedrijf gemaakt is.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Red Blue Yellow • Unity Game
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Red Blue Yellow is een arcade-achtige game waarbij je door middel van kleuren mengen een zo hoog mogelijke score probeert te halen.De game is binnen 6 weken gerealiseerd door 4 studenten in Unity, een programma waarin men games kan bouwen.De druk was erg hoog omdat wij geen ervaring hadden met de programmeertaal C#, weinig tijd hadden om deze taal eigen te maken én een werkende game op te leveren.Ondanks de omstandigheden weerhield het er ons niet van om er vol voor te gaan en deze toffe game te realiseren.Ik was verantwoordelijk voor de code van de random generation, die zorgt dat enemies op willekeurige plaatsen verschijnen en de spelbesturing.Als kers op de taart heb ik een zelfgebouwde gamecontroller gemaakt.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+De speler moet door middel van toetscombinaties de juiste kleur mengen en scoren.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Drink'in • Regie Animatie & Sound
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+In 2015 veranderde de wet omtrent alcoholgebruik onder jongeren. Dit hield in dat de minimumleeftijd voor het legaal mogen consumeren van alcohol veranderde van 16 naar 18 jaar.Drink’in ging over deze verandering. In deze live talkshow werd aandacht besteed aan diverse aspecten van deze nieuwe wet, die door motion graphics (animaties) vertellenderwijs ingeleid werden door een professionele presentatrice.Het project had een omvang van ongeveer 20 personen (personeel en derden meegerekend)Mijn verantwoordelijkheden tijdens dit project waren onder andere het regisseren van een van de motion graphics (“probleemstelling”) en het regelen van de audio tijdens de uitzending.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Sound Artist & Engineer
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Tijdens The Mudskipper Family heb ik meegewerkt aan een spel dat gaat over het leven op Curaçao.Een familie Mudskippers woont op Curaçao. Op een dag wordt de kleinste van de familie, Eva, plots meegenomen door een beruchte vogel die op het eiland woont: de Wara-Wara! De familie schrikt hiervan en wil dat Eva snel terugkomt. Daarom staan zij voor de uitdaging om op zoek te gaan naar Eva, en haar terug te brengen!De Wara-Wara vogel leeft in het westen van Curaçao. Om daar te kunnen komen moeten de Mudskippers nat blijven, zij hebben namelijk water nodig om te overleven.Ieder character in de game heeft unieke eigenschappen waardoor het aan de speler is welk character het best geschikt is om Eva te vinden.De game had een projectomvang van ongeveer 40 personen, onderverdeeld in 5 subteams:Level - Character - Art - Sound - Programming.Level: Verantwoordelijk voor de gamescène en de storyline.Character: Verantwoordelijk voor de speelbare en niet-speelbare karakters in het spel.Art: Verantwoordelijk voor alle props (3D-modellen) en vormgeving in de scène.Sound: Verantwoordelijk voor alle geluiden in en bij de game.Programming: Verantwoordelijk voor de gamelogica, het renderen en bundelen.Ik zat in het Sound-team, waarbij mijn focus lag bij het opnemen vanzogenoemde foley sounds. Foley sounds zijn omgevings-, en effectgeluiden die nodig zijn ter ondersteuning van de game.Hierbij is bijvoorbeeld te denken aan een plons zodra een van de characters in het water springt. Omgevingsgeluiden zoals wind en geritsel van bladeren zijn ook foley sounds.Ieder geluidje dat te horen is in The Mudskipper Family is volledig zelf opgenomen in de omgeving van Arnhem-Nijmegen. Daarna zijn ze stuk voor stuk bewerkt en beoordeeld.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Raytormedia • Livestream
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Raytormedia helpt bedrijven visueel en vertellenderwijs te communiceren door middel van illustraties, infographics en uitleganimaties.Om klanten inzicht te geven in de diverse taken die behoren tot de processen zijn er livestreams gehouden.Tijdens de livestreams werd onder andere uitgelegd hoe logo’s, personages en animaties gemaakt worden.Raytormedia heeft mij gevraagd om de techniek van de livestream te verzorgen. Dit hield in dat ik de benodigde apperatuur regelde, servers huurde & instelde en er zorg voor droeg dat we daadwerkelijk live konden gaan.Om een hoge kwaliteit beeld te garanderen is er gebruik gemaakt van een Canon 5D Mark III, externe capture-card en een extra computer die volledig toegewijd was aan het verwerken van het beeld.De verwerkende computer stuurde de output naar een server in Amsterdam, vanaf daar werd het opnieuw verwerkt en gelijktijdig doorgestuurd naar verschillende platforms. Dit heet multiplexing.Dankzij de multiplexing zonden we onze stream tegelijkertijd uit op YouTube, Twitch en Facebook, zodat ons bereik zo groot mogelijk was.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Beelden
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Mixer
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Multiplexer
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Live
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Fotografie
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+In mijn vrije tijd fotografeer ik graag. Ik neem dan mijn spiegelreflexcamera mee (Canon 5D Mark III) en ga een eind wandelen om zo de mooiste plaatjes te schieten.In mijn vrije tijd fotografeer ik graag. Ik neem dan mijn spiegelreflexcamera mee (Canon 5D Mark III) en ga een eind wandelen om zo de mooiste plaatjes te schieten.Daarnaast fotografeer ik ook ter ontspanning, want door al wandelend van de buitenlucht te genieten ergens in het bos, de stad of op een andere plek kom ik volledig tot rust.Door eventjes weg te zijn van mijn computer parkeer ik mijn gedachten en krijg ik creatieve ideeën die ik de volgende dag weer kan gebruiken.Een deel van mijn foto’s is online te vinden op Instagram en Unsplash.De foto’s die op Unsplash staan zijn te downloaden en mogen vrijblijvend gebruikt worden. De foto van het hertje is er ook te vinden.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+unsplash.com/ricardobalk • instagram.com/ricardos.photography
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Illustraties
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Ik maak zo af en toe illustraties in Adobe Illustrator, bijvoorbeeld om een verhaal te vertellen of iets toe te lichten.Daarnaast heb ik in het verleden ook illustraties gemaakt ten behoeve van storyboards voor motion graphics.Hieronder zijn enkele van mijn illustraties te zien. Dillustraties zijn van een storyboard over de bisschop Ferdinand Hamer, een bijzondere missiepioneer die op jonge leeftijd de wereld al rondreisde om zijn idealen te vertegenwoordigen. De bisschop is tijdens een van zijn vele reizen op brute wijze vermoord. Om hem te herdenken is er een standbeeld opgericht dat tot op heden in Nijmegen te vinden is — in de Bisschop Hamerstraat.De onderste rij met illustraties zijn onderdeel van 'Storytelling', waarbij de opdracht was om een bestaande tekst te visualiseren. In dit geval "Jack and Jill".
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+3D Modelleren
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Ik heb wat ervaring in het maken van 3D-modellen. Dit heb ik geleerd tijdens het GAME-semester op de HAN.De modellen zijn gemaakt in Autodesk 3DsMax, een bekend programma voor het maken van 3D-modellen.De opdracht tijdens het semester was om de 3D-modellen te maken met zo min mogelijk vlakjes, poly’s.De reden hiervoor is dat in een game veel modellen tegelijkertijd ingeladen worden, minder poly’s per model betekent dus een snellere laadtijd en beter speelbare game.Om de modellen minder vlak en meer natuurgetrouw weer te geven zijn er andere technieken toegepast, zoals bijvoorbeeld specular maps.Dankzij specular maps krijgen delen van het model een bepaalde mate van glans en/of reflectie, afhankelijk vande specular map.Op de linker pagina is te zien dat er meerdere lichtbronnen het object verlichten, rechtsonder op deze pagina is het resultaat te zien.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+3D Modelleren • Geavanceerd
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Naast wat basis 3D-modellen heb ik ook ‘grotere’ 3D-modellen gemaakt.Een van die modellen was een post-apocalyptische auto, gebaseerd op een moderne auto.De auto is volledig gemaakt aan de hand van de ‘plane-modelling’ techniek. Bij deze techniek wordt aan de hand van een (digitale) mal een vlakke plaat uitgetrokken totdat er een 3D-model ontstaat.Het voordeel is dat er wederom zo min mogelijk poly’s gebruikt zijn om het model te realiseren. Het nadeel is dat de UVW Unwrap soms in stukken breekt.Om de modellen minder vlak en meer natuurgetrouw weer te geven zijn er andere technieken toegepast, zoals bijvoorbeeld specular maps.Dankzij specular maps krijgen delen van het model een bepaalde mate van glans en/of reflectie, afhankelijk van de specular map.Op de linker pagina is te zien dat er meerdere lichtbronnen het object verlichten, rechtsonder op deze pagina is het resultaat te zien.
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Titel • Categorie
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Ik ben makelaar in koffi, en woon op de Lauriergracht No 37.Het is mijn gewoonte niet, romans te schrijven, of zulke dingen, en het heeft dan ook lang geduurd, voor ik er toe overging een paar riem papier extra te bestellen, en het werk aan te vangen, dat gij, lieve lezer, zoâven in de hand hebt genomen, en dat ge lezen moet als ge makelaar in koffie zijt, of als ge wat anders zijt.Niet alleen dat ik nooit iets schreef wat naar een roman geleek, maar ik houd er zelfs niet van, iets dergelijks te lezen, omdat ik een man van zaken ben.Alles leugens! Zo gaat dan de opvoeding voort. Het nieuwe zusje is van de groenvrouw gekomen in een grote kool. Alle Hollanders zijn dapper en edelmoedig. De Romeinen waren blij dat de Batavieren hen lieten leven. De Bey van Tunis kreeg een koliek als hij het wapperen hoorde van de Nederlandse vlag. De hertog van Alva was een ondier.De eb, in 1672 geloof ik, duurde wat langer dan gewoonlijk, expres om Nederland te beschermen.Leugens! Nederland is Nederland gebleven, omdat onze oudelui goed op hun zaken pasten, en omdat ze het ware geloof hadden. Dàt is de zaak!
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Website: example.com
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Broncode: github.com/username/repo
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Belangrijke skills bij dit project
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+HTML/CSS
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Versiebeheer
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+TypeScript
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Grafisch ontwerp
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Gebruikte technieken
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
+<!--ORIGINAL START-->
+Zurb FoundationWebpackVuePressVueNodeBabel (ES6)TypeScriptPrerenderingGitDocker*
+<!--ORIGINAL END-->
+<!--TRANSLATION START-->
+<!--TRANSLATION END-->
