@@ -354,7 +354,7 @@ Red Blue Yellow is an arcade-like game where players are required to obtain the 
 
 This game has been build in just 6 weeks by 4 students from the HAN University of Applied Sciences.
 
-It was a bit of a pressure-cooker because we didn't have any experience with the programming language C#, we had a very limited amount of time to learn this new language and even less time to build a working version of the game.
+It was a bit of a pressure cooker because we didn't have any experience with the programming language C#, we had a very limited amount of time to learn this new language and even less time to build a working version of the game.
 
 Despite the circumstances, we have put a lot of effort into the realisation, resulting in a nice game that's fun to play.
 
