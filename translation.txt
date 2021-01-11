@@ -26,13 +26,21 @@ Ook ik had me dit jaar aangemeld en gewerkt aan verschillende applicaties. Boven
 Er was verrassend veel interesse voor mijn relatief eenvoudige app. Dankzij Hacktoberfest is het in korte tijd uitgegroeid tot bruikbare applicatie, die ik in de toekomst verder uit ga werken.
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-  <!-- TODO -->
+Hacktoberfest is an online event that takes place each October. During this event, people from all over the world collaborate on open source software.
+
+The goal of Hacktoberfest is improving the awareness of open source software, and give people the opportunity to explore and learn about the lare amount of programming languages available as of today.
+
+Thanks to the advancement of the internet, anyone worldwide can join the event, regardless of their personal background or experience with open source software development.
+
+I also participated this past year, and worked on various pieces of software. In addition to being a contributor, I have also set up my own project, an open source location tracker.
+
+There was a surprising amount of interest in it, and with the help of Hacktoberfest, it quickly became a usable application, which I will be further developed on in the future.
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 Afbeelding: Een open-source locatie tracker die ik samen met anderen maakte in het kader van Hacktoberfest 2020. Back-end geschreven in Go, front-end in Vue 3 en TypeScript.
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-  <!-- TODO -->
+Image: An open source location tracker made during Hacktoberfest 2020. Back-end made with Go, front-end with Vue 3 and TypeScript.
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 Broncode: github.com/waarzitjenu
@@ -274,7 +282,15 @@ De bedrijfsvideo diende als inleiding op de presentatie tijdens de officiële op
 Video: https://vimeo.com/301791287
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-  <!-- TODO -->
+ELDA is a business that has been a big player in the Dutch veterinary sector for years. Services that ELDA offers are Management Services for goat farmers, animal identification, gene pool matching, milk research and additional veterinary services.
+
+One of ELDA's products that can be thought of is an online interface in which the farmer, carer or a veterinarian can use to gain insights into the health and nutritional information for one of their animals.
+
+ELDA recently became a subsidiary of RUMA-VSM. They company did not have a corporate video yet to explain the offered services, so they asked me to make a business movie for them.
+
+The movie has been shown during the 'official opening', and now serves as an online video for newcomers who want to know more about the company.
+
+Video: https://vimeo.com/301791287
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 ProtonMail & ProtonVPN • Proeflezen
@@ -368,7 +384,13 @@ Het project had een omvang van ongeveer 20 personen (personeel en derden meegere
 Mijn verantwoordelijkheden tijdens dit project waren onder andere het regisseren van een van de motion graphics (“probleemstelling”) en het regelen van de audio tijdens de uitzending.
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-  <!-- TODO -->
+The Dutch legal drinking age increased from 16 to 18 years old back in 2015. This means that the Dutch youth could only legally buy, possess and consume alcoholic drinks if they're 18 years old, or older.
+
+Drink’in is about this change in law. In this live online broadcast, attention was paid to various aspects of this changed law. Motion graphics were used to support the presenter along her story.
+
+The project involved approximately 20 people (including staff and third parties)
+
+My personal responibilities during this project were directing and helping with one of the motion graphics (“probleemstelling” - “problem definition”) and regulating the audio during the broadcast.
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 Sound Artist & Engineer
@@ -461,13 +483,24 @@ De verwerkende computer stuurde de output naar een server in Amsterdam, vanaf da
 Dankzij de multiplexing zonden we onze stream tegelijkertijd uit op YouTube, Twitch en Facebook, zodat ons bereik zo groot mogelijk was.
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
- <!-- TODO -->
+Raytormedia helps companies to communicate visually through the use of illustrations, infographics and animations (motion graphics).
+
+To give customers insights into what's happening "inside the company", a live stream has been broadcasted.
+The live stream explained people how logos, characters and animations are made.
+
+Raytormedia asked me to do the technical set-up for the livestream. This meant that I arranged the required equipment, rented & set up servers and made sure that we could go live.
+
+To guarantee a high quality broadcast, I used a Canon 5D Mark III, external capture card and an extra computer that was fully dedicated to processing the resulting video feed, before sending it to our 'multiplexer'.
+
+Our multiplexing server resided in Amsterdam, from there it was reprocessed and forwarded to different platforms simultaneously.
+
+Thanks to the simultaneous streams on YouTube, Twitch and Facebook, our reach was as high as possible.
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 Beelden
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-Feed
+Video feed
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 Mixer
@@ -528,7 +561,13 @@ Hieronder zijn enkele van mijn illustraties te zien. Dillustraties zijn van een 
 De onderste rij met illustraties zijn onderdeel van 'Storytelling', waarbij de opdracht was om een bestaande tekst te visualiseren. In dit geval "Jack and Jill".
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
-  <!-- TODO -->
+I occasionally make illustrations in Adobe Illustrator (nowadays I'm using Inkscape), for telling a story or to explain something.
+
+I have also made illustrations for motion graphic storyboards in the past.
+
+Below are some of my illustrations. The illustrations is from a storyboard about the bishop Ferdinand Hamer, a special mission pioneer who traveled the world at a very young age. The Bishop was killed on one of his many trips, and in memory of him, a statue has been erected that can still be found in Nijmegen as of today - in the 'Bisschop Hamerstraat'.
+
+The bottom row of illustrations are part of 'Storytelling', a university course, where the assignment was to visualize an existing nursery rhyme. In this case, "Jack and Jill".
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 3D Modelleren
@@ -553,7 +592,20 @@ de specular map.
 Op de linker pagina is te zien dat er meerdere lichtbronnen het object verlichten, rechtsonder op deze pagina is het resultaat te zien.
 <!--ORIGINAL END-->
 <!--TRANSLATION START-->
- <!-- TODO -->
+I have some experience in creating 3D models, which I learned during one of the courses at HAN University.
+
+During that time, I used Autodesk 3DsMax, a well-known app for creating 3D models.
+
+The primary condition during the semester was to make the 3D models with as few squares (poly’s) as possible.
+
+There's a reason for that: in a game, many different 3D models are loaded in the scene, so using less poly's per model means a faster and better playable game.
+
+In order to give the models a more realistic visual appearance, various techniques have been used, such as alpha maps and specular maps.
+
+Alpha maps makes parts of the 3D model transparent, and specular maps add a certain amount of reflection and
+gloss to the objects.
+
+On the left page you can see that several light sources are illuminating the object, resulting in more depth, as can be seen on the right side.
 <!--TRANSLATION END-->
 <!--ORIGINAL START-->
 3D Modelleren • Geavanceerd
